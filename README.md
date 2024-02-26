@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Split Expenses
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Split Expenses, a web application for managing shared expenses among friends!
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+The "Split Expenses" app is a handy tool for managing shared expenses among friends. It simplifies the process of splitting bills and keeping track of who owes whom. The app allows users to add friends, view their balances, select a friend to split a bill with, and evenly distribute expenses between them.
 
-### `npm start`
+## Key Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Add Friends:** Users can add friends to their list by providing their names and profile images.
+- **View Balances:** Each friend's balance is displayed, indicating whether they owe money or are owed money.
+- **Select Friend:** Users can select a friend to split a bill with, triggering the bill-splitting functionality.
+- **Split Bill:** The app facilitates splitting bills by allowing users to enter the total bill amount and their respective expenses. It then calculates and updates each friend's balance accordingly.
+- **Dynamic UI:** The app's user interface is dynamic and responsive, providing an intuitive user experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **React:** The app is built using React, a JavaScript library for building user interfaces.
+- **JavaScript:** JavaScript is used for implementing application logic and interactivity.
+- **CSS:** Cascading Style Sheets are used for styling the app's user interface, ensuring a visually appealing design.
+- **Local State Management:** React's useState hook is utilized for managing local component state, enabling dynamic updates and re-renders.
+- **Form Handling:** The app employs form handling techniques to capture user input and trigger appropriate actions.
+- **Conditional Rendering:** Conditional rendering techniques are used to display different UI elements based on the app's state.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+- To add a friend, enter their name and profile image URL in the provided form fields and click the "Add" button.
+- Select a friend from the list by clicking on their name to split a bill with them.
+- Enter the total bill amount and your respective expenses in the bill-splitting form.
+- Choose who is paying the bill from the dropdown menu.
+- Click the "Split" button to evenly distribute the expenses between you and your friend.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Note:** The app's functionality is primarily focused on splitting bills among friends and does not include features such as authentication or persistent storage. It is designed for demonstration and educational purposes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributor
+Sworup Subedi
