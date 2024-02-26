@@ -1,10 +1,10 @@
-# Split Expenses
+# Eat-n-Split
 
-Welcome to Split Expenses, a web application for managing shared expenses among friends!
+Welcome to Eat-n-Split, a web application for managing shared expenses among friends!
 
 ## Description
 
-The "Split Expenses" app is a handy tool for managing shared expenses among friends. It simplifies the process of splitting bills and keeping track of who owes whom. The app allows users to add friends, view their balances, select a friend to split a bill with, and evenly distribute expenses between them.
+The "Eat-n-Split" app is a handy tool for managing shared expenses among friends. It simplifies the process of splitting bills and keeping track of who owes whom. The app allows users to add friends, view their balances, select a friend to split a bill with, and evenly distribute expenses between them.
 
 ## Key Features
 
