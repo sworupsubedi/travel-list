@@ -32,7 +32,7 @@ Far Away is a web application designed to streamline the packing process for you
 
 ## Demo
 
-Check out the [Far Away application] (https://sworupsubedi.github.io/travel-list/) to explore its features!
+Check out the [Far Away application](https://sworupsubedi.github.io/travel-list/) to explore its features!
 
 **Note:** Far Away is a simplified packing management tool designed for demonstration purposes. It does not include advanced features such as user authentication or cloud storage capabilities.
 
